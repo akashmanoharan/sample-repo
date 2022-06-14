@@ -11,7 +11,7 @@ page_sections:
     link_text: Ubuild
   - link: "/samplepage"
     link_text: Swap
-  - link: "#customize"
+  - link: "/samplepage"
     link_text: Customize
   - link: "#responsive"
     link_text: Responsive
