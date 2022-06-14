@@ -18,7 +18,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   media:
-    image: "/uploads/2018/06/21/theme.png"
+    image: "/uploads/2018/06/21/forestry-full.svg"
     alt_text: ''
   headline: ''
   slug: ''
