@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
-  - link: https://akashmanoharan.github.io/sample-repo/samplepage/
+  - link: https://akashmanoharan.github.io/sample-repo/samplepage
     link_text: Swap
   - link: "/samplepage"
     link_text: Customize
