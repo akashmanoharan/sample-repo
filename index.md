@@ -13,7 +13,7 @@ page_sections:
     link_text: Swap
   - link: "/samplepage"
     link_text: Customize
-  - link: "#responsive"
+  - link: "/samplepage"
     link_text: Responsive
   - link: "#blocks"
     link_text: Blocks
