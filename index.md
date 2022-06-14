@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
-  - link: "/samplepage"
+  - link: "/sample-repo/samplepage"
     link_text: Swap
   - link: "/samplepage"
     link_text: Customize
